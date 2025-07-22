@@ -73,3 +73,22 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+#除外するアセット
+Assets/AGWYN's Low Poly Magical Potions Pack/
+Assets/AllSkyFree/
+Assets/DogKnight/
+Assets/Ishikawa1116/
+Assets/LowlyPoly/
+Assets/RPG Monster DUO PBR Polyart/
+Assets/SciFiWarriorPBRHPPolyart/
+Assets/Shaded Spectrum/
+Assets/Simple FX Kit/
+Assets/SimpleNaturePack/
+Assets/Sounds/
+Assets/Trees Package Lite/
+Assets/UI Image/
+Assets/実験Unity側log/
+Assets/_TerrainAutoUpgrade/
+Assets/TextMesh Pro/
+Assets/Font/
